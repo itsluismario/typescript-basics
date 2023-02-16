@@ -13,5 +13,6 @@ addProduct({
 });
 
 console.log(products);
+
 const total = calcStock();
 console.log(total);
